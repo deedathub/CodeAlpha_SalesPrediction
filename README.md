@@ -7,6 +7,7 @@
 # 
 
 # A regression model predicting sales from advertising spend across three channels,
+
 # with a check on how much each channel actually contributes.
 
 # 
